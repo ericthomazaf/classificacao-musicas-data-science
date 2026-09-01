@@ -81,7 +81,7 @@ O modelo alcançou **AUC de 0,91 e acurácia de 82%**.
 
 - `classificacao_musicas.ipynb` — notebook contendo toda a análise e desenvolvimento do modelo.
 
-## Autora
+## Autor
 
 Eric Thomaz Altines Figueiredo
 
