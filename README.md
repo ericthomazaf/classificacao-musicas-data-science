@@ -26,7 +26,7 @@ Principais atributos utilizados no modelo:
 - `liveness`
 - `track_genre`
 
-## 🔎 Metodologia
+## Metodologia
 
 O projeto foi desenvolvido seguindo as seguintes etapas:
 
@@ -41,7 +41,7 @@ O projeto foi desenvolvido seguindo as seguintes etapas:
 9. Avaliação dos modelos
 10. Otimização de hiperparâmetros com Grid Search
 
-## 🤖 Modelos utilizados
+## Modelos utilizados
 
 Foram comparados três algoritmos de classificação:
 
